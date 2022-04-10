@@ -1,0 +1,3 @@
+Harness_93=EN,IRQ,NCS,ADC,OAD,OAD2
+Harness_RX_D=RX_P,RX_N
+Harness_SPI=CLK,MISO,MOSI
